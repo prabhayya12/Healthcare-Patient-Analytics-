@@ -50,17 +50,12 @@ The dataset consists of patient records with the following columns:
 
 ## How to Use
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/prabhayya12/Healthcare-Patient-Analytics-.git
-   ```
-
-2. **Explore the code and datasets**
+1. **Explore the code and datasets**
    - Notebooks and scripts are provided for data cleaning and EDA
    - SQL scripts for database setup and queries
    - Power BI dashboard files for visualization
 
-3. **Customize for your own data**
+2. **Customize for your own data**
    - Replace the sample dataset with your hospital data
    - Update scripts as needed for your schema
 THANK YOU
